@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1695929627 source:f:\project of dart\pp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1691351260 source:f:\project of dart\pp\e.c
+	"stdlib.h"
+	<stdio.h>
+	<math.h>
+	"dec.h"
+
+1691419974 f:\project of dart\pp\std_types.h
+
+1691351305 f:\project of dart\pp\dec.h
+
+1691350989 f:\project of dart\pp\e.c
+	"stdlib.h"
+	<stdio.h>
+	<math.h>
+	"dec.h"
+
