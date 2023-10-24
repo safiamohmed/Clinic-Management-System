@@ -4,7 +4,6 @@
 - GITHUB
 - Why U should learn GIT?
 - Words you will hear
-- Repository
 - Commands
 
 --------
